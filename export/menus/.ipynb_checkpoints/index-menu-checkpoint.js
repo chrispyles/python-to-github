@@ -1,0 +1,1 @@
+var html = `<strong>Notebooks:</strong> <a href="notebooks/01-something.html">01 Something</a> <a href="notebooks/index.html">Index</a>`; document.write(html);
